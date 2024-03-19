@@ -1,6 +1,10 @@
 body {
     font-family: 'Times New Roman', Times, serif;
+<<<<<<< HEAD
     background-color: rgb(213, 227 , 246);
+=======
+    background-color: rgb(213, 277, 246);
+>>>>>>> af0e35eddfe725921a323da70f529b67a2628a4d
     color: rgb(0, 0, 139);
 }
 
